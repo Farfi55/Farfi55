@@ -1,13 +1,12 @@
-### 👋 Ciaoo I'm **Farfi**.
+### 👋 Ciaoo I'm **Alessio**
 
 ---
 
 - 🎓 **Artificial Intelligence** student at [UNICAL](https://www.unical.it/?lang=en)
-- 💼 Currently working as a Backend developer at [SebyOne](https://www.sebyone.it/)
-- 🔎 Currently learning: `react ⚛️`, `rust 🦀` and `german 🇩🇪`
-- ⭐ Intrested in: `Game dev 🎮`, `Web dev 🌐`, `Deep Neural networks 🤖` and `cyber security 🔓`
+- 🔎 Currently learning: `Network Security 🛜` and `Computational complexity theory 🤯` for some of my courses
+- ⭐ Intrested in: `Game dev 🎮`, `Web dev 🌐`, `Cyber Security 🔓` and `Artificial Intelligence 🤖`
 - 📬 Feel free to reach out at: *`alessio.farfaglia[at]gmail.com`*
-- 🌐 Find out more on my [website](https://farfi55.github.io/)
+- 🌐 Find out more about me on my [website](https://farfi55.github.io/)
 
 ---
 
