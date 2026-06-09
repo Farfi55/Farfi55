@@ -3,7 +3,6 @@
 ---
 
 - 🎓 **Artificial Intelligence** graduate at [UNICAL](https://www.unical.it/?lang=en)
-- 
 - 🔎 Currently learning: `RAG Development`
 - ⭐ Intrested in: `Game dev 🎮`, `Web dev 🌐`, `Cyber Security 🔓` and `Artificial Intelligence 🤖`
 - 📬 Feel free to reach out at: *`alessio.farfaglia[at]gmail.com`*
